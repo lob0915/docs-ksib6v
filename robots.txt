@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-gurr33.kujang138btc.space/sitemap.xml
